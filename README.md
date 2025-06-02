@@ -52,13 +52,14 @@ Data Source → Power Query → DAX → Dashboard
 ## 🧩 Visual Assets
 
 ### 📌 Mock-up Dashboard  
-![Mockup Dashboard](mockup%20dashboard.png)
+![Mockup Dashboard](images/mockup dashboard.png)
 
 ### 📌 Data Model  
-![Data Model](data%20model.png)
+![Data Model](images/data model.png)
 
 ### 📌 Final Dashboard  
-![Final Dashboard](mydashboard.png)
+![Final Dashboard](images/mydashboard.png)
+
 
 ---
 
