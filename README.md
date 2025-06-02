@@ -58,7 +58,7 @@ Data Source → Power Query → DAX → Dashboard
 ![Data Model](images/data%20model.png)
 
 ### 📌 Final Dashboard  
-![Final Dashboard](images/mydashboard.png)
+![Final Dashboard](images/my%20dashboard.png)
 
 
 ---
