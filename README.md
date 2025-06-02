@@ -52,7 +52,7 @@ Data Source → Power Query → DAX → Dashboard
 ## 🧩 Visual Assets
 
 ### 📌 Mock-up Dashboard  
-![Mockup Dashboard](mockup dashboard.png)
+![Mockup Dashboard](mock%20up%20dashboard_atliq%20grands.png)
 
 ### 📌 Data Model  
 ![Data Model](data%20model.png)
