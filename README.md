@@ -52,7 +52,7 @@ Data Source → Power Query → DAX → Dashboard
 ## 🧩 Visual Assets
 
 ### 📌 Mock-up Dashboard  
-![Mockup Dashboard](mock%20up%20dashboard_atliq%20grands.png)
+![Mockup Dashboard](mockup dashboard.png)
 
 ### 📌 Data Model  
 ![Data Model](data%20model.png)
@@ -70,10 +70,3 @@ Data Source → Power Query → DAX → Dashboard
 
 ---
 
-## 📈 Outcomes
-The final dashboard empowers hotel executives with:
-- Real-time KPIs
-- Improved visibility into occupancy and cancellations
-- Data-driven decision-making capability
-
----
